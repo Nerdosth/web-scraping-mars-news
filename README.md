@@ -45,4 +45,4 @@ The following analysis is performed on the Mars weather data:
 
 # Conclusion
 
-This project demonstrates a variety of web scraping and data analysis techniques. The final output is a collection of Mars news stories, weather data, and an analysis of the data collected.
+This repository demonstrates a variety of web scraping and data analysis techniques. The final output is a collection of Mars news stories, weather data, and an analysis of the data collected.
